@@ -1,4 +1,4 @@
-# Payloads Arsenal for Penetration Tester and Bug Bounty Hunters
+# AppSec Payloads Arsenal for Penetration Tester and Bug Bounty Hunters
 
 ## I really want to thank entire open-source community as well as members, without you all this Repository wouldn't have existed! So Thank you so much everyone!
 
